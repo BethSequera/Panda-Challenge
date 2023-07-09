@@ -1,4 +1,4 @@
-# PandaChallenge- Pandas School Data Analysis
+# PandasChallenge- Pandas School Data Analysis
 
 This repository contains a Python project that utilizes the Pandas library to analyze school and standardized test data.
 
